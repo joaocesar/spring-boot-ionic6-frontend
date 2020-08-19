@@ -1,0 +1,7 @@
+{
+  "name": "spring-boot-ionic6-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
